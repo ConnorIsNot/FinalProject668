@@ -1,0 +1,18 @@
+---
+title: Mapping Hiding Area for Jet Lag the Game Hide and Seek
+author: Connor Mahone
+---
+
+```{r}
+# Load packages required for the analysis
+library(sf)
+library(tidyverse)
+library(osmdata)
+# library(leaflet or mapGL)
+```
+
+```{r}
+# Optionally source functions from `functions.R` script
+source(here::here("R", "functions.R"))
+# Add more calls to source as needed
+```
